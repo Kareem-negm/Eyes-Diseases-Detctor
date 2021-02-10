@@ -23,7 +23,9 @@ Diabetic retinopathy affects up to 80 percent of those who have had diabetes for
 
 Here are some pictures that show how the app works
 
-{{< figure src="/test imges/4.jpg" >}}
-{{< figure src="/test imges/3.jpg" >}}
-{{< figure src="/test imges/1.jpg" >}}
+![alt text](https://github.com/Kareem-negm/Eyes-Diseases-Detctor/blob/main/test%20imges/4.jpg)
+![alt text](https://github.com/Kareem-negm/Eyes-Diseases-Detctor/blob/main/test%20imges/1.jpg)
+![alt text](https://github.com/Kareem-negm/Eyes-Diseases-Detctor/blob/main/test%20imges/3.jpg)
+
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Nb0_B0kTpxirW5QSKlF7PS-ZdgdG9V9I#scrollTo=9o14iuO3yaGO)<br>
