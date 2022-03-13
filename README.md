@@ -10,7 +10,8 @@
 * Most people have eye problems at one time or another. Some are minor and will go away on their own, or are easy to treat at home. Others need a specialist’s care.
 
 * This program is designed to predict certain eye diseases such as Cataract, Diabetic Retinopathy and Redness.We have collected the data needed for this project online and trained a model that can detect the disease that has infected the eye with up to 99% accuracy. 
-
+# DataSet 
+we collect the data from [Kaggle dataset](https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k)
 # Red Eyes 'Redness'
 * Your eyes look bloodshot. Why? . Their surface is covered in blood vessels that expand when they’re irritated or infected. That gives your eyes the red look , Eyestrain can do it, and so can a late night, a lack of sleep, or allergies. If an injury is the cause, get it checked by your Eyes Diseases Detctor App
 
